@@ -1,4 +1,10 @@
 
+深度学习于语音合成研究综述
+https://gist.github.com/candlewill/aeaca14975d8ba4417f6a99ea91f196b
+
+luanfujun/deep-photo-styletransfer
+https://github.com/luanfujun/deep-photo-styletransfer
+
   DNN-TTS（深度神經網絡文本到語音）
   https://antkillerfarm.github.io/dl/2018/01/13/Deep_Learning_29.html
   
