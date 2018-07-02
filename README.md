@@ -1,3 +1,9 @@
+译者注：MedyMatch是一家以色列的公司，与IBM Watson Health合作，在后者提供的CT图片的基础上，应用深度学习和计算机视觉技术，识别颅内出血的部位。详见
+
+http://www.healthcareitnews.com/news/ibm-watson-partners-medymatch-put-artificial-intelligence-work-stopping-brain-bleeds
+
+
+
 译者注：该方法是通过人工智能判断X光胸片是否有肺结核的影像特征，使用了AlexNet and GoogLeNet这两种模型，经过1007张X光胸片的训练后，联合应用二者，对肺结核的诊断准确率可达99%。（http://www.healthcareitnews.com/news/how-artificial-intelligence-helping-detect-tuberculosis-remote-areas）
 https://www.healthcareitnews.com/news/how-artificial-intelligence-helping-detect-tuberculosis-remote-areas
 
