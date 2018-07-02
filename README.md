@@ -1,4 +1,7 @@
 
+这个过程通常被称为语音合成（speech synthesis）或文本转语音（TTS）
+https://www.jiqizhixin.com/articles/2016-09-12-2
+
 深度学习于语音合成研究综述
 https://gist.github.com/candlewill/aeaca14975d8ba4417f6a99ea91f196b
 
