@@ -1,3 +1,11 @@
+以上只是一些人工智能在医疗健康领域应用的例子。据调查，美国有35%的医疗机构将在2年内引进人工智能技术，而计划在5年内引进人工智能技术的医院达到50%，群体健康、患者诊断、临床决策支持、精准医疗是备受期待的应用领域。
+
+（http://www.healthcareitnews.com/news/half-hospitals-adopt-artificial-intelligence-within-5-years）
+
+
+
+原文链接：https://www.windowscentral.com/these-are-some-technological-advances-we-should-be-grateful
+
 译者注：MedyMatch是一家以色列的公司，与IBM Watson Health合作，在后者提供的CT图片的基础上，应用深度学习和计算机视觉技术，识别颅内出血的部位。详见
 
 http://www.healthcareitnews.com/news/ibm-watson-partners-medymatch-put-artificial-intelligence-work-stopping-brain-bleeds
