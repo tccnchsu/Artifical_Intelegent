@@ -1,3 +1,9 @@
+根本停不下來！給它一個輪廓，TensorFlow 還你一隻完整的喵 (附論文下載)》
+https://buzzorange.com/techorange/2018/02/12/2017-ai-big-news-of-all/
+
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651648287&idx=1&sn=f8f4d3e16142e551afc8662f64e5c4c5&chksm=bd4dd68c8a3a5f9ab499e975eceaa37256fd0246c1af96c0fa87d3ee5571bc349e1b9125adce&mpshare=1&scene=21&srcid=0202EGlnl4wAD9SNjzpDxW1b&key=0a43752aaf16db178a55b30fcbf14816c4766cd93a3ab57e51c79950e3129586a3f0f308bf39aea258e2b47ce34ff69712a664a125a0ca54e2a2b6ce684b0377595e6aaf0bc4a63666e1c1b1db1d1805&ascene=0&uin=MTU0MjIyMTUyMA==&devicetype=iMac%20MacBookPro11,1%20OSX%20OSX%2010.12%20build(16A323)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=LqUTlj/NoNowCT2ig1c4NQnGpaSdwlgTyP6I1KUaNvkYfsF6sqpwLed31DM95Bp6#wechat_redirect
+
+
 谷歌 DeepMind AI 再次完爆人類讀唇語正確率勝專家（附論文下載）》
 https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651646012&idx=1&sn=ded9559f8f178c8089d500428a0fc899&chksm=bd4dcfaf8a3a46b9e7d0c34b8c5c5a5310e8edd3556ef5acc522d1a9f98368a6382bae44d2e7&mpshare=1&scene=21&srcid=0202SoYIyAHZt8OqqsdVRxYM&key=df93367b1bca188f9951a664bd9c8cc8b2fdc440cfa2bd96aef50fca6a43b4f6163dfdfcf5195666f5d7795a9634979d6b105bee15da1a1e0abc2ce0284afccd9c73ce369491ef471cf76554a89c89e2&ascene=0&uin=MTU0MjIyMTUyMA==&devicetype=iMac%20MacBookPro11,1%20OSX%20OSX%2010.12%20build(16A323)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=LqUTlj/NoNowCT2ig1c4NQnGpaSdwlgTyP6I1KUaNvkYfsF6sqpwLed31DM95Bp6#wechat_redirect
 
