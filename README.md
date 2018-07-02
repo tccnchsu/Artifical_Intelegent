@@ -15,6 +15,10 @@
   WaveNet: A Generative Model for Raw Audio - GitHub
   https://github.com/r9y9/wavenet_vocoder/files/2003663/20180514_WaveNetTTS_no_proprietary.pdf
   
+  
+  wavenet_vocoder
+  https://github.com/r9y9/wavenet_vocoder/issues/1
+  
   PixelRNN (van den Oord et al., 2016)图像生成的做法
   https://arxiv.org/pdf/1601.06759.pdf
   
