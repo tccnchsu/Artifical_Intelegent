@@ -1,3 +1,14 @@
+
+  DNN-TTS（深度神經網絡文本到語音）
+  https://antkillerfarm.github.io/dl/2018/01/13/Deep_Learning_29.html
+  
+  PixelRNN (van den Oord et al., 2016)图像生成的做法
+  https://arxiv.org/pdf/1601.06759.pdf
+  
+  WaveNet之后，百度第一代Deep Voice出现了。为了解决速度慢这个问题，我们看看百度在Deep Voice第一代 [1] 是怎么做的。
+  https://zhuanlan.zhihu.com/p/30776006
+  
+
 # Artifical_Intelegent
 https://happycoder.org/2017/10/07/python-data-science-and-machine-learning-tutorial-introduction/
 
