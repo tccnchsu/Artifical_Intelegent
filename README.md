@@ -1,3 +1,7 @@
+谷歌 DeepMind AI 再次完爆人類讀唇語正確率勝專家（附論文下載）》
+https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651646012&idx=1&sn=ded9559f8f178c8089d500428a0fc899&chksm=bd4dcfaf8a3a46b9e7d0c34b8c5c5a5310e8edd3556ef5acc522d1a9f98368a6382bae44d2e7&mpshare=1&scene=21&srcid=0202SoYIyAHZt8OqqsdVRxYM&key=df93367b1bca188f9951a664bd9c8cc8b2fdc440cfa2bd96aef50fca6a43b4f6163dfdfcf5195666f5d7795a9634979d6b105bee15da1a1e0abc2ce0284afccd9c73ce369491ef471cf76554a89c89e2&ascene=0&uin=MTU0MjIyMTUyMA==&devicetype=iMac%20MacBookPro11,1%20OSX%20OSX%2010.12%20build(16A323)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=LqUTlj/NoNowCT2ig1c4NQnGpaSdwlgTyP6I1KUaNvkYfsF6sqpwLed31DM95Bp6#wechat_redirect
+
+https://buzzorange.com/techorange/2018/02/12/2017-ai-big-news-of-all/
 
 这个过程通常被称为语音合成（speech synthesis）或文本转语音（TTS）
 https://www.jiqizhixin.com/articles/2016-09-12-2
