@@ -4,6 +4,8 @@ https://www.healthcareitnews.com/news/how-artificial-intelligence-helping-detect
 IBM Watson Health MedyMatch Technology AI
 https://www-03.ibm.com/press/us/en/pressrelease/51835.wss
 
+https://www.healthcareitnews.com/news/ibm-watson-partners-medymatch-put-artificial-intelligence-work-stopping-brain-bleeds
+
 
 《從 HoloLens 到 AI 輔助結核病治療，17 年 AI 在醫療領域幾個最重要的應用突破》
 https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651654833&idx=1&sn=74fb559206df28f088b4eadf9b74922d&chksm=bd4c2d228a3ba43478341c8281ca7f24650eff300c9a3ce04252cc229d710fe1d6f954a1020d&mpshare=1&scene=21&srcid=0202Tf5u70Nr0cv5CfkUd4bI&key=99fd8d2cefe0fa6702577a790f769d67433048a164249259498f261967238a15dc1e6de85f2c6fd5d58ebc104437ddca8c3b523a6ed2afe620d88e729e5212e3a11e286eb987837801f8cb831c1a40ca&ascene=0&uin=MTU0MjIyMTUyMA==&devicetype=iMac%20MacBookPro11,1%20OSX%20OSX%2010.12%20build(16A323)&version=12010310&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=LqUTlj/NoNowCT2ig1c4NQnGpaSdwlgTyP6I1KUaNvkYfsF6sqpwLed31DM95Bp6#wechat_redirect
