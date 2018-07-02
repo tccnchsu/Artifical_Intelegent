@@ -2,6 +2,19 @@
   DNN-TTS（深度神經網絡文本到語音）
   https://antkillerfarm.github.io/dl/2018/01/13/Deep_Learning_29.html
   
+  
+  WaveNet: A Generative Model for Raw Audio
+  https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+  
+  PR-024: Pixel Recurrent Neural Network
+  https://www.youtube.com/watch?v=BvcwEz4VPIQ
+  
+  PixelCNN, Wavenet & Variational Autoencoders - Santiago Pascual - UPC 2017
+  https://www.youtube.com/watch?v=FeJT8ejgsL0
+  
+  WaveNet: A Generative Model for Raw Audio - GitHub
+  https://github.com/r9y9/wavenet_vocoder/files/2003663/20180514_WaveNetTTS_no_proprietary.pdf
+  
   PixelRNN (van den Oord et al., 2016)图像生成的做法
   https://arxiv.org/pdf/1601.06759.pdf
   
