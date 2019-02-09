@@ -1,3 +1,6 @@
+Image classification with Keras and deep learning
+https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
+
 以上只是一些人工智能在医疗健康领域应用的例子。据调查，美国有35%的医疗机构将在2年内引进人工智能技术，而计划在5年内引进人工智能技术的医院达到50%，群体健康、患者诊断、临床决策支持、精准医疗是备受期待的应用领域。
 
 （http://www.healthcareitnews.com/news/half-hospitals-adopt-artificial-intelligence-within-5-years）
