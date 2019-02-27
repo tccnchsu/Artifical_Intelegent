@@ -1,3 +1,6 @@
+The Mozilla Research RRNoise project shows how to apply deep learning to noise suppression. It combines classic signal processing with deep learning, but it’s small and fast. No expensive GPUs required — it runs easily on a Raspberry Pi. The result is easier to tune and sounds better than traditional noise suppression systems (been there!).
+https://hacks.mozilla.org/2017/09/rnnoise-deep-learning-noise-suppression/
+
 Acoustic Noise Cancellation by Machine Learning
 
 https://medium.com/coinmonks/acoustic-noise-cancellation-by-machine-learning-4144af497661
