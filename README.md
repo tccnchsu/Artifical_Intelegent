@@ -1,3 +1,7 @@
+Acoustic Noise Cancellation by Machine Learning
+
+https://medium.com/coinmonks/acoustic-noise-cancellation-by-machine-learning-4144af497661
+
 Image classification with Keras and deep learning
 https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
 
